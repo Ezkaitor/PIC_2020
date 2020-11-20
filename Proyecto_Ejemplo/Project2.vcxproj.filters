@@ -15,42 +15,42 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\DetectChars.cpp">
+    <ClCompile Include="DetectChars.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\DetectPlates.cpp">
+    <ClCompile Include="DetectPlates.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\Main.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\PossibleChar.cpp">
+    <ClCompile Include="PossibleChar.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\PossiblePlate.cpp">
+    <ClCompile Include="PossiblePlate.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\Preprocess.cpp">
+    <ClCompile Include="Preprocess.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\DetectChars.h">
+    <ClInclude Include="DetectPlates.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\DetectPlates.h">
+    <ClInclude Include="Main.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\Main.h">
+    <ClInclude Include="PossibleChar.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\PossibleChar.h">
+    <ClInclude Include="PossiblePlate.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\PossiblePlate.h">
+    <ClInclude Include="Preprocess.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\Preprocess.h">
+    <ClInclude Include="DetectChars.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>

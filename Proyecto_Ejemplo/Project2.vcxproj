@@ -127,20 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\DetectChars.cpp" />
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\DetectPlates.cpp" />
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\Main.cpp" />
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\PossibleChar.cpp" />
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\PossiblePlate.cpp" />
-    <ClCompile Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\Preprocess.cpp" />
+    <ClCompile Include="DetectChars.cpp" />
+    <ClCompile Include="DetectPlates.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="PossibleChar.cpp" />
+    <ClCompile Include="PossiblePlate.cpp" />
+    <ClCompile Include="Preprocess.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\DetectChars.h" />
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\DetectPlates.h" />
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\Main.h" />
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\PossibleChar.h" />
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\PossiblePlate.h" />
-    <ClInclude Include="..\..\..\Downloads\OpenCV_3_License_Plate_Recognition_Cpp-master\archive\Preprocess.h" />
+    <ClInclude Include="DetectChars.h" />
+    <ClInclude Include="DetectPlates.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="PossibleChar.h" />
+    <ClInclude Include="PossiblePlate.h" />
+    <ClInclude Include="Preprocess.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

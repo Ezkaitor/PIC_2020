@@ -1,2 +1,9 @@
-﻿  Main.cpp
-  Project2.vcxproj -> C:\Users\admin\source\repos\Project2\x64\Debug\Project2.exe
+﻿  DetectChars.cpp
+c:\users\admin\desktop\universidad\uc3m\visión por computador\proyecto\pic_2020\proyecto_ejemplo\detectchars.cpp(162): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+  DetectPlates.cpp
+  Main.cpp
+  PossibleChar.cpp
+  PossiblePlate.cpp
+  Preprocess.cpp
+  Generando código...
+  Project2.vcxproj -> C:\Users\admin\Desktop\Universidad\UC3M\Visión por Computador\Proyecto\PIC_2020\Proyecto_Ejemplo\x64\Debug\Project2.exe
